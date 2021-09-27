@@ -12,5 +12,6 @@ com1
          com5//
 
                  //com6
+                 com7
 }
 
